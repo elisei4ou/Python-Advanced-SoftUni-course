@@ -1,0 +1,9 @@
+.html
+- - - another_one.html
+- - - html_file.html
+.py
+- - - file.py
+- - - other_file.py
+- - - some_file.py
+.txt
+- - - textov.txt
